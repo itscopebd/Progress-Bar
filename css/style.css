@@ -1,0 +1,38 @@
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+
+    background-color: #da0c0c;
+    padding: 50px 20px;
+}
+
+#progress{
+    width: 100%;
+    
+    background-color: gray;
+    line-height: 15px;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.skill{
+    text-align: center;
+    width: 6%;
+    background-color: green;
+   height: 100%;
+   line-height: 30px;
+   border-radius: 5px;
+   color: #fff;
+}
+
+.btn{
+    display: inline-block;
+    padding: 12px 10px;
+    margin: 5px 10px;
+    cursor: pointer;
+    background-color: green;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
